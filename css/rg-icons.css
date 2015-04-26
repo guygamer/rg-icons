@@ -1,3 +1,7 @@
+/*!
+ *  rg-icons 1.1.0 by @raysguy - https://github.com/raysguy/rg-icons
+ *  License - https://github.com/raysguy/rg-icons/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
 @font-face {
 	font-family: 'rg-icons';
 	src: url('fonts/rg-icons.eot');
@@ -21,6 +25,10 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.rg-xs {
+	font-size: 16px;
 }
 
 .rg-deluge:before {
