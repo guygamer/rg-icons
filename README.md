@@ -11,6 +11,8 @@ Just follow these simple steps:
  3. Ensure the CSS is correctly referenced
  4. Include the icons by using the "rg" class followed by the icon name: `<i class="rg rg-htpc"></i>`
  5. Manipulate the icon as you would any other font, eg: `<i class="rg rg-htpc" style="font-family:'rg-icons';font-size:28px;font-weight: normal;color:#ffffff"></i>`
+
+To see a full list of included icons along with the correct icon name to use please see the `rg-icons-demo.html` file included in the root of the rg-icons.
  
 ###Special classes
 You can use some special classes I created to quickly customise any rg-icon.  Just include these modifiers to the class:
