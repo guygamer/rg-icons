@@ -1,6 +1,6 @@
 # rg-icons
 ######*by raysguy*
-#####Crisp and sharp icon font for torrent/nzb clients and providers designed by @raysguy.
+**Crisp and sharp icon font for torrent/nzb clients and providers designed by @raysguy.**
 
 Originally designed as torrent/nzb client and provider icons for the HTPC Manager project but I'm making them available here as they could be useful to other projects.  I was frustrated with how poor png graphics look when used as icons and using svg files was proving problematic.  So I decided to create my own set of icons as an icon font that would look crisp and sharp at all sizes (including Retina displays) and could be easily manipulated.  I tried to create simple and clear icons that would be easily recognisable at any size whilst also capturing the spirit of the original client and provider logos.  I anticipate adding more icons in the future on an as-needed basis.
 
@@ -27,5 +27,5 @@ Please start the title of any request with [REQUEST] and include an image of the
 *NB - Please only request icons for known software and services.  No requests for personal designs and nothing of a lewd or adult nature.*
 
 ###Changelog
- * v 1.1.0 2015-04-26
+ * v1.1.0 2015-04-26
   - Initial public release
