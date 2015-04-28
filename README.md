@@ -6,7 +6,7 @@ Originally designed as torrent/nzb client and provider icons for the HTPC Manage
 
 ###How to use
 Just follow these simple steps:
- 1. Download the latest release
+ 1. Download the latest release from [here](https://github.com/raysguy/rg-icons/releases/latest)
  2. Extract the files and copy to your project
  3. Ensure the CSS is correctly referenced
  4. Include the icons by using the "rg" class followed by the icon name: `<i class="rg rg-logo"></i>`
