@@ -1,4 +1,4 @@
-@import "http://fonts.googleapis.com/css?family=Lato:300";
+@import "http://fonts.googleapis.com/css?family=Lato:300,100italic,300italic";
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 /**
@@ -117,7 +117,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bold;
+  font-weight: 300;
 }
 
 /**
@@ -125,6 +125,7 @@ strong {
  */
 
 dfn {
+  font-weight: 100;
   font-style: italic;
 }
 
@@ -407,7 +408,7 @@ textarea {
  */
 
 optgroup {
-  font-weight: bold;
+  font-weight: 300;
 }
 
 /* Tables
@@ -429,12 +430,12 @@ th {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 15px;
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.5;
   color: #666;
-  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+  background: #333333 /*url(../images/body-bg.jpg) 0 0 repeat*/;
 }
 
 p {
@@ -451,8 +452,8 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  font-family: font-family: 'Lato', sans-serif;
+  background: #d4001f;
   border-bottom: solid 1px #275da1;
 }
 
@@ -461,7 +462,7 @@ header h1 {
   margin-top: 0;
   margin-bottom: 0.2em;
   font-size: 72px;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1;
   color: #fff;
   letter-spacing: -1px;
@@ -472,7 +473,7 @@ header h2 {
   margin-top: 0;
   margin-bottom: 0;
   font-size: 26px;
-  font-weight: normal;
+  font-weight: 300;
   line-height: 1.3;
   color: #9ddcff;
   letter-spacing: 0;
@@ -480,7 +481,7 @@ header h2 {
 
 .inner {
   position: relative;
-  width: 940px;
+  width: 1000px;
   margin: 0 auto;
 }
 
@@ -505,12 +506,12 @@ aside#sidebar {
   padding-left: 20px;
   font-size: 12px;
   line-height: 1.3;
-  background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
+  background: transparent/* url(../images/sidebar-bg.jpg) 0 0 no-repeat*/;
 }
 
 aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
-  font-weight: bold;
+  font-weight: 300;
 }
 
 #downloads {
@@ -522,7 +523,7 @@ a.button {
   height: 58px;
   padding-top: 22px;
   padding-left: 68px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 23px;
   line-height: 1.2;
   color: #fff;
@@ -594,7 +595,7 @@ table {
 }
 
 th {
-  font-weight: 500;
+  font-weight: 300;
 }
 
 td {
@@ -615,9 +616,9 @@ form {
 #main-content h1 {
   margin-top: 0;
   margin-bottom: 0;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 2.8em;
-  font-weight: normal;
+  font-weight: 300;
   color: #474747;
   text-indent: 6px;
   letter-spacing: -1px;
@@ -632,9 +633,9 @@ form {
 
 #main-content h2 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 22px;
-  font-weight: bold;
+  font-weight: 300;
   color: #474747;
   text-indent: 4px;
 }
@@ -648,9 +649,9 @@ form {
 #main-content h3 {
   margin-top: 24px;
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 18px;
-  font-weight: bold;
+  font-weight: 300;
   color: #474747;
   text-indent: 3px;
 }
@@ -664,9 +665,9 @@ form {
 
 #main-content h4 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: 300;
   color: #474747;
   text-indent: 3px;
 }
@@ -680,7 +681,7 @@ h4:before {
 
 #main-content h5 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: 14px;
   color: #474747;
   text-indent: 3px;
@@ -694,7 +695,7 @@ h5:before {
 
 #main-content h6 {
   margin-bottom: 8px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-family: 'Lato', sans-serif;
   font-size: .8em;
   color: #474747;
   text-indent: 3px;
@@ -715,7 +716,7 @@ a {
 }
 
 p a {
-  font-weight: 400;
+  font-weight: 300;
 }
 
 blockquote {

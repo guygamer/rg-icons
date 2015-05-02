@@ -113,7 +113,7 @@ table {
 }
 
 th {
-  font-weight: 500;
+  font-weight: 300;
 }
 
 td {
@@ -175,7 +175,7 @@ a {
 }
 
 p a {
-  font-weight: 400;
+  font-weight: bold;
 }
 
 blockquote {
