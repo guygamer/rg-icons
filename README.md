@@ -28,6 +28,10 @@ Please start the title of any request with [REQUEST] and include an image of the
 *NB - Please only request icons for known software and services.  No requests for personal designs and nothing of a lewd or adult nature.*
 
 ###Version History
+ * v1.3.0 2015-06-10
+  - Added icon for passthepopcorn (by request)
+  - rg-icons site added [http://raysguy.github.io/rg-icons](http://raysguy.github.io/rg-icons)
+ 
  * v1.2.0 2015-04-28
   - Added rg-icons logo
   - Added two alternative icons for Plex

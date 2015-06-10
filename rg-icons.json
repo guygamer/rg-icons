@@ -12,23 +12,23 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"logo"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
 				{}
 			],
 			"properties": {
-				"order": 25,
+				"order": 1,
 				"id": 13,
 				"name": "logo",
 				"prevSize": 32,
 				"code": 58893
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 0
 		},
@@ -65,11 +65,11 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"htpc",
 					"htpc-manager"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -87,13 +87,13 @@
 				{}
 			],
 			"properties": {
-				"order": 26,
+				"order": 2,
 				"id": 6,
 				"name": "htpc",
 				"prevSize": 32,
 				"code": 58882
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 1
 		},
@@ -108,24 +108,24 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"plex",
 					"plex-square"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
 				{}
 			],
 			"properties": {
-				"order": 27,
+				"order": 3,
 				"id": 15,
 				"prevSize": 32,
 				"name": "plex",
 				"code": 58894
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 2
 		},
@@ -138,23 +138,23 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"plex-alt",
 					"plex-circle"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 28,
+				"order": 4,
 				"id": 14,
 				"prevSize": 32,
 				"name": "plex-alt",
 				"code": 58895
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 3
 		},
@@ -167,23 +167,23 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"kodi",
 					"xbmc"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 29,
+				"order": 5,
 				"id": 4,
 				"name": "kodi",
 				"prevSize": 32,
 				"code": 58884
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 4
 		},
@@ -208,10 +208,10 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"nzbget"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -223,13 +223,13 @@
 				{}
 			],
 			"properties": {
-				"order": 30,
+				"order": 6,
 				"id": 2,
 				"name": "nzbget",
 				"prevSize": 32,
 				"code": 58886
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 5
 		},
@@ -256,10 +256,10 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"sabnzbd"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -272,13 +272,13 @@
 				{}
 			],
 			"properties": {
-				"order": 31,
+				"order": 7,
 				"id": 1,
 				"name": "sabnzbd",
 				"prevSize": 32,
 				"code": 58887
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 6
 		},
@@ -287,27 +287,27 @@
 				"paths": [
 					"M511.027 24.371c-0.256 1.126-2.918 11.674-5.888 23.501-8.55 33.894-21.35 75.418-33.28 108.032-8.243 22.528-11.008 29.235-19.866 48.896-9.318 20.685-11.366 24.781-22.426 44.544-17.050 30.515-34.253 56.525-58.982 89.19-18.995 25.139-47.462 59.443-70.861 85.402-41.626 46.234-66.867 81.254-87.347 121.344-16.077 31.437-26.266 61.594-31.642 93.696-2.304 13.824-2.714 17.306-3.43 30.413-0.717 12.954-0.768 16.896-0.205 31.488 0.614 15.206 0.87 18.227 3.123 33.843 2.15 14.848 3.021 19.251 6.349 32.512 15.565 62.054 49.459 116.941 101.171 163.789 42.752 38.758 89.395 63.949 142.182 76.8 13.517 3.328 18.176 4.198 32.41 6.144 14.182 1.997 19.046 2.406 33.024 3.072 14.182 0.614 18.586 0.614 32.768 0 45.722-2.048 87.194-12.083 126.054-30.515 38.707-18.381 74.445-45.056 105.984-79.104 38.656-41.779 64.205-88.166 77.261-140.186 3.328-13.261 4.198-17.664 6.349-32.512 2.253-15.616 2.509-18.637 3.123-33.843 0.563-14.592 0.512-18.534-0.205-31.488-0.717-13.107-1.126-16.589-3.43-30.413-5.376-32.102-15.565-62.259-31.642-93.696-20.48-40.090-45.722-75.11-87.347-121.344-23.398-25.958-51.866-60.262-70.861-85.402-24.73-32.666-41.933-58.675-58.982-89.19-11.11-19.814-13.107-23.808-22.682-45.056-9.011-20.019-11.827-26.931-20.019-49.152-12.134-33.075-24.525-72.909-33.638-108.493-3.379-13.107-6.195-23.859-6.298-24.013-0.154-0.102-0.461 0.666-0.768 1.741zM530.176 423.424c70.707 4.198 133.786 28.57 186.112 71.834 9.37 7.731 29.286 27.699 36.403 36.454 12.851 15.821 22.426 30.003 30.362 45.056l2.406 4.608-1.946-2.304c-23.962-28.006-46.746-47.309-76.186-64.461-41.165-24.064-87.040-38.093-139.52-42.65-9.728-0.819-42.496-0.819-52.224 0-46.234 4.045-85.606 14.848-123.392 33.946-27.494 13.824-50.381 30.106-71.373 50.637-14.49 14.234-24.166 25.805-34.355 41.216-20.941 31.642-32.512 63.539-36.71 101.12-0.819 7.629-0.819 33.229 0 40.96 2.918 26.266 9.677 50.176 20.736 73.267 8.806 18.534 21.965 38.195 36.762 55.040 6.246 7.117 20.992 21.453 28.621 27.853 48.742 40.755 111.616 65.434 179.968 70.707 4.25 0.307 7.782 0.666 7.885 0.768s-4.608 0.205-10.496 0.205c-77.312-0.051-148.378-25.037-205.517-72.346-9.37-7.731-29.286-27.699-36.403-36.454-15.104-18.534-26.112-35.584-35.328-54.784-13.21-27.494-20.838-55.040-24.115-86.784-0.819-8.346-0.819-35.686 0-44.032 5.478-53.555 24.269-98.355 59.443-141.568 7.117-8.755 27.034-28.723 36.403-36.454 51.866-42.906 115.558-67.635 184.832-71.782 10.189-0.614 27.699-0.614 37.632-0.051z"
 				],
+				"width": 1024,
 				"attrs": [
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"deluge"
 				],
-				"width": 1024
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 32,
+				"order": 8,
 				"id": 12,
 				"name": "deluge",
 				"prevSize": 32,
 				"code": 58889
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 7
 		},
@@ -324,10 +324,10 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"qbittorrent"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -335,13 +335,13 @@
 				{}
 			],
 			"properties": {
-				"order": 33,
+				"order": 9,
 				"id": 11,
 				"name": "qbittorrent",
 				"prevSize": 32,
 				"code": 58890
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 8
 		},
@@ -354,22 +354,22 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"transmission"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 34,
+				"order": 10,
 				"id": 10,
 				"name": "transmission",
 				"prevSize": 32,
 				"code": 58891
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 9
 		},
@@ -382,22 +382,22 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"utorrent"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 35,
+				"order": 11,
 				"id": 9,
 				"name": "utorrent",
 				"prevSize": 32,
 				"code": 58892
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 10
 		},
@@ -414,11 +414,11 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"btn",
 					"broadcast-the-net"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -426,13 +426,13 @@
 				{}
 			],
 			"properties": {
-				"order": 36,
+				"order": 12,
 				"id": 8,
 				"name": "btn",
 				"prevSize": 32,
 				"code": 58880
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 11
 		},
@@ -451,10 +451,10 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"getstrike"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -463,13 +463,13 @@
 				{}
 			],
 			"properties": {
-				"order": 37,
+				"order": 13,
 				"id": 7,
 				"name": "getstrike",
 				"prevSize": 32,
 				"code": 58881
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 12
 		},
@@ -482,24 +482,24 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"ka",
 					"kat",
 					"kickass"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 38,
+				"order": 14,
 				"id": 5,
 				"name": "ka",
 				"prevSize": 32,
 				"code": 58883
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 13
 		},
@@ -516,10 +516,10 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"norbits"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{},
@@ -527,13 +527,13 @@
 				{}
 			],
 			"properties": {
-				"order": 39,
+				"order": 15,
 				"id": 3,
 				"name": "norbits",
 				"prevSize": 32,
 				"code": 58885
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 14
 		},
@@ -546,32 +546,63 @@
 					{}
 				],
 				"isMulticolor": false,
-				"grid": 32,
 				"tags": [
 					"yts",
 					"yify"
-				]
+				],
+				"grid": 32
 			},
 			"attrs": [
 				{}
 			],
 			"properties": {
-				"order": 40,
+				"order": 16,
 				"id": 0,
 				"name": "yts",
 				"prevSize": 32,
 				"code": 58888
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 2,
 			"iconIdx": 15
+		},
+		{
+			"icon": {
+				"paths": [
+					"M0 512v512h1024v-1024h-1024v512zM1022.976 512v510.976h-1021.952v-1021.952h1021.952v510.976z",
+					"M2.048 512v509.952h1019.904v-1019.904h-1019.904v509.952zM184.32 92.16v51.2h-102.4v-102.4h102.4v51.2zM337.92 92.16v51.2h-102.4v-102.4h102.4v51.2zM491.52 92.16v51.2h-102.4v-102.4h102.4v51.2zM645.12 92.16v51.2h-102.4v-102.4h102.4v51.2zM798.72 92.16v51.2h-102.4v-102.4h102.4v51.2zM952.32 92.16v51.2h-102.4v-102.4h102.4v51.2zM337.92 512v297.984h-254.976v-595.968h254.976v297.984zM644.608 512v297.472h-254.976l-0.307-296.448c-0.102-163.021 0-297.062 0.307-297.779 0.307-1.024 26.419-1.229 127.693-1.024l127.283 0.307v297.472zM951.296 512v297.984h-254.976v-595.968h254.976v297.984zM184.32 931.84v51.2h-102.4v-102.4h102.4v51.2zM337.92 931.84v51.2h-102.4v-102.4h102.4v51.2zM491.52 931.84v51.2h-102.4v-102.4h102.4v51.2zM645.12 931.84v51.2h-102.4v-102.4h102.4v51.2zM798.72 931.84v51.2h-102.4v-102.4h102.4v51.2zM952.32 931.84v51.2h-102.4v-102.4h102.4v51.2z"
+				],
+				"attrs": [
+					{},
+					{}
+				],
+				"isMulticolor": false,
+				"grid": 32,
+				"tags": [
+					"passthepopcorn"
+				]
+			},
+			"attrs": [
+				{},
+				{}
+			],
+			"properties": {
+				"order": 17,
+				"id": 16,
+				"prevSize": 32,
+				"name": "passtp",
+				"code": 58896
+			},
+			"setIdx": 1,
+			"setId": 2,
+			"iconIdx": 16
 		}
 	],
 	"height": 1024,
 	"metadata": {
 		"name": "rg-icons",
-		"url": "https://github.com/raysguy/rg-icons.git",
-		"designerURL": "https://github.com/raysguy",
+		"url": "http://raysguy.github.io/rg-icons",
+		"designerURL": "https://github.com/raysguy/",
 		"license": "Font: SIL OFL 1.1, CSS: MIT License",
 		"licenseURL": "https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE"
 	},
@@ -585,46 +616,44 @@
 			"metadata": {
 				"fontFamily": "rg-icons",
 				"majorVersion": 1,
-				"minorVersion": 2,
-				"copyright": "raysguy",
-				"designerURL": "https://github.com/raysguy",
-				"description": "rg-icons",
-				"fontURL": "https://github.com/raysguy/rg-icons.git",
+				"minorVersion": 3,
+				"license": "Font: SIL OFL 1.1, CSS: MIT License",
 				"licenseURL": "https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE",
-				"license": "Font: SIL OFL 1.1, CSS: MIT License"
+				"designerURL": "https://github.com/raysguy/",
+				"fontURL": "http://raysguy.github.io/rg-icons",
+				"description": "crisp and sharp HTPC icons",
+				"copyright": "raysguy"
 			},
 			"metrics": {
 				"emSize": 1024,
 				"baseline": 6.25,
 				"whitespace": 50
 			},
-			"includeMetadata": true,
-			"ie7": true,
 			"showSelector": true,
-			"showMetrics": true,
+			"selector": "i",
+			"showMetrics": false,
 			"showMetadata": true,
 			"showVersion": true,
+			"includeMetadata": true,
 			"embed": true,
-			"selector": "class",
-			"classSelector": ".rg",
-			"autoHost": false,
-			"resetPoint": 58880
+			"cssVars": true,
+			"cssVarsFormat": "less"
 		},
 		"imagePref": {
-			"prefix": "icon-",
+			"prefix": "rg-",
 			"png": true,
 			"useClassSelector": true,
 			"color": 4473924,
-			"bgColor": 16777215
+			"bgColor": 16777215,
+			"classSelector": ".rg",
+			"columns": 16,
+			"margin": 16,
+			"height": 32,
+			"addBgColor": false
 		},
 		"historySize": 100,
-		"showCodes": false,
+		"showCodes": true,
 		"gridSize": 16,
-		"showGrid": true,
-		"quickUsageToken": {
-			"rg-icons": "YzYzZmRmMTU3Y2UzMDc2ZTYwNjBjM2RmOTI0MzVhZWEjMSMxNDMwMDAwNzgzIyMj"
-		},
-		"fontHostingName": false,
-		"showLiga": false
+		"showGrid": false
 	}
 }
