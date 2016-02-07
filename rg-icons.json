@@ -22,14 +22,14 @@
 				{}
 			],
 			"properties": {
-				"order": 20,
+				"order": 23,
 				"id": 13,
 				"name": "logo",
 				"prevSize": 32,
 				"code": 58893
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 0
 		},
 		{
@@ -87,14 +87,14 @@
 				{}
 			],
 			"properties": {
-				"order": 21,
+				"order": 24,
 				"id": 6,
 				"name": "htpc",
 				"prevSize": 32,
 				"code": 58882
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 1
 		},
 		{
@@ -119,14 +119,14 @@
 				{}
 			],
 			"properties": {
-				"order": 22,
+				"order": 25,
 				"id": 15,
 				"prevSize": 32,
 				"name": "plex",
 				"code": 58894
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 2
 		},
 		{
@@ -148,14 +148,14 @@
 				{}
 			],
 			"properties": {
-				"order": 23,
+				"order": 26,
 				"id": 14,
 				"prevSize": 32,
 				"name": "plex-alt",
 				"code": 58895
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 3
 		},
 		{
@@ -177,14 +177,14 @@
 				{}
 			],
 			"properties": {
-				"order": 24,
+				"order": 27,
 				"id": 4,
 				"name": "kodi",
 				"prevSize": 32,
 				"code": 58884
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 4
 		},
 		{
@@ -223,14 +223,14 @@
 				{}
 			],
 			"properties": {
-				"order": 25,
+				"order": 28,
 				"id": 2,
 				"name": "nzbget",
 				"prevSize": 32,
 				"code": 58886
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 5
 		},
 		{
@@ -272,14 +272,14 @@
 				{}
 			],
 			"properties": {
-				"order": 32,
+				"order": 29,
 				"id": 1,
 				"name": "sabnzbd",
 				"prevSize": 32,
 				"code": 58887
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 6
 		},
 		{
@@ -301,14 +301,14 @@
 				{}
 			],
 			"properties": {
-				"order": 33,
+				"order": 30,
 				"id": 12,
 				"name": "deluge",
 				"prevSize": 32,
 				"code": 58889
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 7
 		},
 		{
@@ -335,14 +335,14 @@
 				{}
 			],
 			"properties": {
-				"order": 34,
+				"order": 31,
 				"id": 11,
 				"name": "qbittorrent",
 				"prevSize": 32,
 				"code": 58890
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 8
 		},
 		{
@@ -363,14 +363,14 @@
 				{}
 			],
 			"properties": {
-				"order": 35,
+				"order": 32,
 				"id": 10,
 				"name": "transmission",
 				"prevSize": 32,
 				"code": 58891
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 9
 		},
 		{
@@ -391,14 +391,14 @@
 				{}
 			],
 			"properties": {
-				"order": 36,
+				"order": 33,
 				"id": 9,
 				"name": "utorrent",
 				"prevSize": 32,
 				"code": 58892
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 10
 		},
 		{
@@ -426,14 +426,14 @@
 				{}
 			],
 			"properties": {
-				"order": 37,
+				"order": 34,
 				"id": 8,
 				"name": "btn",
 				"prevSize": 32,
 				"code": 58880
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 11
 		},
 		{
@@ -463,14 +463,14 @@
 				{}
 			],
 			"properties": {
-				"order": 26,
+				"order": 35,
 				"id": 7,
 				"name": "getstrike",
 				"prevSize": 32,
 				"code": 58881
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 12
 		},
 		{
@@ -493,14 +493,14 @@
 				{}
 			],
 			"properties": {
-				"order": 27,
+				"order": 36,
 				"id": 5,
 				"name": "ka",
 				"prevSize": 32,
 				"code": 58883
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 13
 		},
 		{
@@ -527,14 +527,14 @@
 				{}
 			],
 			"properties": {
-				"order": 28,
+				"order": 37,
 				"id": 3,
 				"name": "norbits",
 				"prevSize": 32,
 				"code": 58885
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 14
 		},
 		{
@@ -556,14 +556,14 @@
 				{}
 			],
 			"properties": {
-				"order": 29,
+				"order": 38,
 				"id": 0,
 				"name": "yts",
 				"prevSize": 32,
 				"code": 58888
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 15
 		},
 		{
@@ -587,14 +587,14 @@
 				{}
 			],
 			"properties": {
-				"order": 30,
+				"order": 39,
 				"id": 16,
 				"prevSize": 32,
 				"name": "passtp",
 				"code": 58896
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 16
 		},
 		{
@@ -606,42 +606,57 @@
 					"M316.416 167.424c-4.71 2.15-9.83 7.168-12.595 12.288l-2.253 4.096-0.307 144.282c-0.307 158.925-0.614 150.63 6.042 158.618 1.741 2.15 5.12 4.915 7.373 6.144 4.198 2.253 4.813 2.253 45.261 2.15 32.358 0 44.134-0.41 55.808-1.741 56.73-6.861 97.69-23.654 127.59-52.224 26.931-25.702 42.701-58.88 48.026-100.966 2.355-18.637 1.638-51.712-1.331-64.717-14.131-60.211-61.030-94.925-143.77-106.496-14.029-2.048-21.299-2.253-70.963-2.56-48.435-0.41-55.706-0.205-58.88 1.126zM434.483 181.658c34.304 3.891 58.675 10.138 79.872 20.685 51.814 25.6 72.602 72.090 62.566 140.186-11.059 75.469-60.826 120.832-147.354 134.554-21.402 3.379-35.738 4.198-72.704 4.198-37.786 0-37.376 0-40.346-5.837-1.741-3.379-1.536-286.618 0.205-290.099 0.717-1.434 2.867-3.379 4.813-4.403 3.379-1.741 6.554-1.843 51.2-1.331 33.075 0.307 51.917 0.922 61.747 2.048z",
 					"M325.632 330.342v140.902l39.219-0.512c38.195-0.512 46.285-1.126 66.253-4.403 70.861-11.878 114.586-46.387 130.97-103.322 3.174-11.162 5.018-22.323 6.246-38.81 3.072-39.526-5.837-68.813-27.648-90.829-12.902-13.005-28.262-22.118-49.254-29.389-31.846-10.957-64.102-14.541-131.686-14.541h-34.099v140.902z"
 				],
-				"attrs": [
-					{},
-					{},
-					{},
-					{},
-					{}
-				],
+				"attrs": [],
 				"isMulticolor": false,
 				"grid": 32,
 				"tags": [
 					"rarbg"
 				]
 			},
-			"attrs": [
-				{},
-				{},
-				{},
-				{},
-				{}
-			],
+			"attrs": [],
 			"properties": {
-				"order": 31,
-				"id": 17,
-				"prevSize": 32,
+				"order": 41,
+				"id": 18,
 				"name": "rarbg",
-				"code": 58897
+				"prevSize": 32,
+				"code": 59649
 			},
 			"setIdx": 0,
-			"setId": 1,
+			"setId": 2,
 			"iconIdx": 17
+		},
+		{
+			"icon": {
+				"paths": [
+					"M0 512v512h1024v-1024h-1024v512zM511.488 511.232c-280.627 280.627-510.259 510.208-510.31 510.208-0.102 0-0.154-229.581-0.154-510.208v-510.208h1020.672l-510.208 510.208zM1013.606 1013.606c-0.102 0.102-222.566 0.102-494.285 0.051l-494.131-0.154 988.314-989.082 0.154 494.49c0.051 271.974 0.051 494.592-0.051 494.694z",
+					"M11.264 504.166v492.954l99.738-99.84c54.886-54.938 276.582-276.736 492.646-492.954l392.909-393.062h-985.293v492.902zM495.821 59.75c0.614 2.048 1.843 10.496 2.355 16.026 0.768 8.909 0.614 28.058-0.256 33.792-2.56 16.896-9.984 26.778-23.552 31.334l-3.584 1.178-137.216 0.512-0.256 211.712c-0.256 201.165-0.307 211.866-1.178 214.784-2.15 7.322-6.861 14.899-11.622 18.637-8.243 6.502-21.658 9.267-41.472 8.55-13.466-0.512-26.573-1.792-34.662-3.43l-2.714-0.512v-449.997h-81.869c-77.568 0-81.92-0.051-82.176-0.922-1.587-5.171-2.867-21.35-2.867-36.71 0-16.333 1.126-23.245 4.966-30.618 4.045-7.68 13.414-13.107 25.395-14.643 1.741-0.256 90.317-0.461 196.813-0.512 183.962-0.051 193.638 0 193.894 0.819z",
+					"M636.16 465.203c-10.24 1.178-14.899 2.355-20.378 5.171-4.403 2.304-7.475 5.734-10.086 11.162-2.867 5.888-4.045 11.008-4.659 19.968-0.307 4.864-0.461 90.726-0.358 235.52l0.154 227.84 2.714 0.563c7.219 1.638 26.368 3.277 37.888 3.277 12.493 0 21.248-1.536 28.262-4.966 7.373-3.584 13.312-11.366 15.974-20.992l1.126-3.994 0.205-66.458 0.154-66.406h43.878c43.52 0 52.838-0.256 66.15-1.843 37.12-4.301 71.987-18.227 98.458-39.27 6.554-5.171 18.176-16.538 23.296-22.784 19.046-23.091 30.669-50.33 35.226-82.534 1.28-9.011 1.536-33.946 0.512-43.878-6.912-65.178-43.059-112.179-104.243-135.475-22.17-8.448-45.056-13.005-73.472-14.694-7.782-0.461-136.806-0.614-140.8-0.205zM773.376 543.744c40.448 2.918 67.686 17.152 82.637 43.264 6.912 12.032 10.496 26.317 11.162 44.032 0.768 21.811-3.738 40.96-13.261 56.32-15.258 24.576-40.55 37.734-79.718 41.472-6.195 0.614-16.435 0.768-47.514 0.768h-39.578v-186.368h39.578c21.709 0 42.752 0.256 46.694 0.512z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"grid": 32,
+				"tags": [
+					"torrentproject"
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"order": 40,
+				"id": 17,
+				"name": "torrentproject",
+				"prevSize": 32,
+				"code": 59648
+			},
+			"setIdx": 0,
+			"setId": 2,
+			"iconIdx": 18
 		}
 	],
 	"height": 1024,
 	"metadata": {
 		"name": "rg-icons",
 		"url": "http://raysguy.github.io/rg-icons",
+		"designer": "raysguy",
 		"designerURL": "https://github.com/raysguy/",
 		"license": "Font: SIL OFL 1.1, CSS: MIT License",
 		"licenseURL": "https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE"
@@ -656,13 +671,14 @@
 			"metadata": {
 				"fontFamily": "rg-icons",
 				"majorVersion": 1,
-				"minorVersion": 4,
+				"minorVersion": 5,
 				"license": "Font: SIL OFL 1.1, CSS: MIT License",
 				"licenseURL": "https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE",
 				"designerURL": "https://github.com/raysguy/",
 				"fontURL": "http://raysguy.github.io/rg-icons",
 				"description": "crisp and sharp HTPC icons",
-				"copyright": "raysguy"
+				"copyright": "raysguy",
+				"designer": "raysguy"
 			},
 			"metrics": {
 				"emSize": 1024,
@@ -670,18 +686,18 @@
 				"whitespace": 50
 			},
 			"showSelector": true,
-			"selector": "i",
+			"selector": "class",
 			"showMetrics": true,
 			"showMetadata": true,
 			"showVersion": true,
 			"includeMetadata": true,
-			"embed": true,
+			"embed": false,
 			"cssVars": true,
 			"cssVarsFormat": "less",
-			"classSelector": ".icon"
+			"classSelector": ".rg"
 		},
 		"imagePref": {
-			"prefix": "rg-",
+			"prefix": "rg",
 			"png": true,
 			"useClassSelector": true,
 			"color": 4473924,
@@ -693,8 +709,9 @@
 			"addBgColor": false
 		},
 		"historySize": 100,
-		"showCodes": true,
+		"showCodes": false,
 		"gridSize": 16,
-		"showGrid": false
+		"showGrid": false,
+		"showLiga": false
 	}
 }
