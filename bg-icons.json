@@ -654,12 +654,12 @@
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "rg-icons",
-		"url": "http://raysguy.github.io/rg-icons",
-		"designer": "raysguy",
-		"designerURL": "https://github.com/raysguy/",
+		"name": "bg-icons",
+		"url": "http://thatbritguy.github.io/bg-icons",
+		"designer": "thatbritguy",
+		"designerURL": "https://github.com/thatbritguy/",
 		"license": "Font: SIL OFL 1.1, CSS: MIT License",
-		"licenseURL": "https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE"
+		"licenseURL": "https://raw.githubusercontent.com/thatbritguy/bg-icons/master/LICENSE"
 	},
 	"preferences": {
 		"showGlyphs": true,
@@ -667,18 +667,18 @@
 		"showQuickUse2": true,
 		"showSVGs": true,
 		"fontPref": {
-			"prefix": "rg-",
+			"prefix": "bg-",
 			"metadata": {
-				"fontFamily": "rg-icons",
+				"fontFamily": "bg-icons",
 				"majorVersion": 1,
 				"minorVersion": 5,
 				"license": "Font: SIL OFL 1.1, CSS: MIT License",
-				"licenseURL": "https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE",
-				"designerURL": "https://github.com/raysguy/",
-				"fontURL": "http://raysguy.github.io/rg-icons",
+				"licenseURL": "https://raw.githubusercontent.com/thatbritguy/bg-icons/master/LICENSE",
+				"designerURL": "https://github.com/thatbritguy/",
+				"fontURL": "http://thatbritguy.github.io/bg-icons",
 				"description": "crisp and sharp HTPC icons",
-				"copyright": "raysguy",
-				"designer": "raysguy"
+				"copyright": "thatbritguy",
+				"designer": "thatbritguy"
 			},
 			"metrics": {
 				"emSize": 1024,
@@ -694,15 +694,15 @@
 			"embed": false,
 			"cssVars": true,
 			"cssVarsFormat": "less",
-			"classSelector": ".rg"
+			"classSelector": ".bg"
 		},
 		"imagePref": {
-			"prefix": "rg",
+			"prefix": "bg",
 			"png": true,
 			"useClassSelector": true,
 			"color": 4473924,
 			"bgColor": 16777215,
-			"classSelector": ".rg",
+			"classSelector": ".bg",
 			"columns": 16,
 			"margin": 16,
 			"height": 32,
