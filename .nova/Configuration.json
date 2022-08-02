@@ -1,3 +1,5 @@
 {
-  "workspace.color" : 4
+  "index.use_scm_ignored_files" : true,
+  "workspace.color" : 4,
+  "workspace.name" : "bg-icons"
 }
