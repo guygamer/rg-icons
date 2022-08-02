@@ -6,7 +6,7 @@
 
 Originally designed as torrent/nzb client and provider icons for the HTPC Manager project but I'm making them available here as they could be useful to other projects.  I was frustrated with how poor png graphics look when used as icons and using svg files was proving problematic.  So I decided to create my own set of icons as an icon font that would look crisp and sharp at all sizes (including Retina displays) and could be easily manipulated.  I tried to create simple and clear icons that would be easily recognisable at any size whilst also capturing the spirit of the original client and provider logos.  I anticipate adding more icons in the future on an as-needed basis.
 
-###How to use
+### How to use
 Just follow these simple steps:
  1. Download the latest release from [here](https://github.com/thatbritguy/bg-icons/releases/latest)
  2. Extract the files and copy to your project
@@ -16,7 +16,7 @@ Just follow these simple steps:
 
 To see a full list of included icons along with the correct icon name to use please see the `bg-icons-demo.html` file included in the root of the bg-icons source.
  
-###Special classes
+### Special classes
 You can use some special classes I created to quickly customise any bg-icon.  Just include these modifiers to the class:
  * `bg-xs` - 16px size - ideal for buttons and icons, ex: `<i class="bg bg-logo bg-xs"></i>`
  * `bg-inverse` - inverted icon - ideal if using bg-icons on a dark background, ex: `<i class="bg bg-logo bg-inverse"></i>`
@@ -29,28 +29,28 @@ Please start the title of any request with [REQUEST] and include an image of the
 
 *NB - Please only request icons for known software and services.  No requests for personal designs and nothing of a lewd or adult nature.* --->
 
-###Version History
- * v1.6.0 2022-08-92
-  - Project is EOL and no longer maintained
-  - Rename project and old references for archiving
+### Version History
+  * v1.6.0 2022-08-92
+    - Project is EOL and no longer maintained
+    - Rename project and old references for archiving
   
- * v1.5.0 2016-02-07
-  - Added icon for torrentproject (by request)
-  - Backend changes to remove CSS font embedding
+  * v1.5.0 2016-02-07
+    - Added icon for torrentproject (by request)
+    - Backend changes to remove CSS font embedding
 
- * v1.4.0 2015-06-19
-  - Added icon for rarbg (by request)
+  * v1.4.0 2015-06-19
+    - Added icon for rarbg (by request)
 
- * v1.3.0 2015-06-10
-  - Added icon for passthepopcorn (by request)
-  - bg-icons site added [http://thatbritguy.github.io/bg-icons](http://thatbritguy.github.io/bg-icons)
+  * v1.3.0 2015-06-10
+    - Added icon for passthepopcorn (by request)
+    - bg-icons site added [http://thatbritguy.github.io/bg-icons](http://thatbritguy.github.io/bg-icons)
  
- * v1.2.0 2015-04-28
-  - Added bg-icons logo
-  - Added two alternative icons for Plex
-  - Added brand-coloured style for icons: append `-c` to an icon name to activate
-  - Updated bg-icons demo to reflect latest changes and show colour options
-  - Dropped support for versions of IE lower than IE8
+  * v1.2.0 2015-04-28
+    - Added bg-icons logo
+    - Added two alternative icons for Plex
+    - Added brand-coloured style for icons: append `-c` to an icon name to activate
+    - Updated bg-icons demo to reflect latest changes and show colour options
+    - Dropped support for versions of IE lower than IE8
 
- * v1.1.0 2015-04-26
-  - Initial public release
+  * v1.1.0 2015-04-26
+    - Initial public release
