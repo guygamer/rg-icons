@@ -1,21 +1,21 @@
 /*!
- *  rg-icons v1.5.0 by @raysguy - http://raysguy.github.io/rg-icons
- *  License - https://raw.githubusercontent.com/raysguy/rg-icons/master/LICENSE (Font: SIL OFL 1.1, CSS: MIT License)
+ *  bg-icons v1.6.0 by @thatbritguy - http://thatbritguy.github.io/bg-icons
+ *  License - https://raw.githubusercontent.com/thatbritguy/bg-icons/master/LICENSE (Font: SIL OFL 1.1, CSS: MIT License)
  */
 @font-face {
-    font-family: 'rg-icons';
-    src:    url('fonts/rg-icons.eot?oc6klh');
-    src:    url('fonts/rg-icons.eot?oc6klh#iefix') format('embedded-opentype'),
-        url('fonts/rg-icons.ttf?oc6klh') format('truetype'),
-        url('fonts/rg-icons.woff?oc6klh') format('woff'),
-        url('fonts/rg-icons.svg?oc6klh#rg-icons') format('svg');
+    font-family: 'bg-icons';
+    src:    url('fonts/bg-icons.eot?oc6klh');
+    src:    url('fonts/bg-icons.eot?oc6klh#iefix') format('embedded-opentype'),
+        url('fonts/bg-icons.ttf?oc6klh') format('truetype'),
+        url('fonts/bg-icons.woff?oc6klh') format('woff'),
+        url('fonts/bg-icons.svg?oc6klh#bg-icons') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 
-.rg {
+.bg {
     /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'rg-icons' !important;
+    font-family: 'bg-icons' !important;
     speak: none;
     font-style: normal;
     font-weight: normal;
@@ -28,163 +28,163 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.rg-xs {
+.bg-xs {
 	font-size: 16px;
 }
 
-.rg-inverse {
+.bg-inverse {
 	color: #ffffff;
 }
 
-.rg-logo:before {
+.bg-logo:before {
 	content: "\e60d";
 }
 
-.rg-logo-c:before {
+.bg-logo-c:before {
 	content: "\e60d";
 	color: #a12283;
 }
 
-.rg-htpc:before {
+.bg-htpc:before {
 	content: "\e602";
 }
 
-.rg-htpc-c:before {
+.bg-htpc-c:before {
 	content: "\e602";
 	color: #000000;
 }
 
-.rg-plex:before {
+.bg-plex:before {
 	content: "\e60e";
 }
 
-.rg-plex-c:before {
+.bg-plex-c:before {
 	content: "\e60e";
 	color: #000000;
 }
 
-.rg-plex-alt:before {
+.bg-plex-alt:before {
 	content: "\e60f";
 }
 
-.rg-plex-alt-c:before {
+.bg-plex-alt-c:before {
 	content: "\e60f";
 	color: #000000;
 }
 
-.rg-kodi:before {
+.bg-kodi:before {
 	content: "\e604";
 }
 
-.rg-kodi-c:before {
+.bg-kodi-c:before {
 	content: "\e604";
 	color: #2fa7d7;
 }
 
-.rg-nzbget:before {
+.bg-nzbget:before {
 	content: "\e606";
 }
 
-.rg-nzbget-c:before {
+.bg-nzbget-c:before {
 	content: "\e606";
 	color: #000000;
 }
 
-.rg-sabnzbd:before {
+.bg-sabnzbd:before {
 	content: "\e607";
 }
 
-.rg-sabnzbd-c:before {
+.bg-sabnzbd-c:before {
 	content: "\e607";
 	color: #ffab00;
 }
 
-.rg-deluge:before {
+.bg-deluge:before {
 	content: "\e609";
 }
 
-.rg-deluge-c:before {
+.bg-deluge-c:before {
 	content: "\e609";
 	color: #304663;
 }
 
-.rg-qbittorrent:before {
+.bg-qbittorrent:before {
 	content: "\e60a";
 }
 
-.rg-qbittorrent-c:before {
+.bg-qbittorrent-c:before {
 	content: "\e60a";
 	color: #2f67ba;
 }
 
-.rg-transmission:before {
+.bg-transmission:before {
 	content: "\e60b";
 }
 
-.rg-transmission-c:before {
+.bg-transmission-c:before {
 	content: "\e60b";
 	color: #e7402c;
 }
 
-.rg-utorrent:before {
+.bg-utorrent:before {
 	content: "\e60c";
 }
 
-.rg-utorrent-c:before {
+.bg-utorrent-c:before {
 	content: "\e60c";
 	color: #90c564;
 }
 
-.rg-btn:before {
+.bg-btn:before {
 	content: "\e600";
 }
 
-.rg-btn-c:before {
+.bg-btn-c:before {
 	content: "\e600";
 	color: #319bc2;
 }
 
-.rg-getstrike:before {
+.bg-getstrike:before {
 	content: "\e601";
 }
 
-.rg-getstrike-c:before {
+.bg-getstrike-c:before {
 	content: "\e601";
 	color: #26747e;
 }
 
-.rg-ka:before {
+.bg-ka:before {
 	content: "\e603";
 }
 
-.rg-ka-c:before {
+.bg-ka-c:before {
 	content: "\e603";
 	color: #a28e4b;
 }
 
-.rg-norbits:before {
+.bg-norbits:before {
 	content: "\e605";
 }
 
-.rg-norbits-c:before {
+.bg-norbits-c:before {
 	content: "\e605";
 	color: #47617c;
 }
 
-.rg-yts:before {
+.bg-yts:before {
 	content: "\e608";
 }
 
-.rg-yts-c:before {
+.bg-yts-c:before {
 	content: "\e608";
 	color: #6ac045;
 }
 
-.rg-passtp:before {
+.bg-passtp:before {
 	content: "\e610";
 }
 
-.rg-passtp-c:before {
+.bg-passtp-c:before {
 	content: "\e610";
 	background: -webkit-linear-gradient(left, rgba(255,0,0,0.49) 0%, rgba(255,158,0,0.51) 17.88%, rgba(250,255,0,0.52) 36.28%, rgba(37,199,8,0.49) 51.25%, rgba(23,68,203,0.52) 66.89%, rgba(53,9,100,0.59) 84.19%, rgba(171,0,255,0.5) 100%);
 	background: -moz-linear-gradient(left, rgba(255,0,0,0.49) 0%, rgba(255,158,0,0.51) 17.88%, rgba(250,255,0,0.52) 36.28%, rgba(37,199,8,0.49) 51.25%, rgba(23,68,203,0.52) 66.89%, rgba(53,9,100,0.59) 84.19%, rgba(171,0,255,0.5) 100%);
@@ -193,20 +193,20 @@
 	background-size: 100% 60%;
 }
 
-.rg-rarbg:before {
+.bg-rarbg:before {
 	content: "\e901";
 }
 
-.rg-rarbg-c:before {
+.bg-rarbg-c:before {
 	content: "\e901";
 	color: #3b63b9;
 }
 
-.rg-torrentproject:before {
+.bg-torrentproject:before {
     content: "\e900";
 }
 
-.rg-torrentproject-c:before {
+.bg-torrentproject-c:before {
     content: "\e900";
     color: #4a6ba2;
 }

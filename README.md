@@ -1,3 +1,5 @@
+## This project is no longer maintained. Everything was renamed for archival purposes and references were updated where possible.  No guarantees that it even still works and no support provided.
+
 # bg-icons
 ### *by thatbritguy*
 **Crisp and sharp icon font for torrent/nzb clients and providers designed by @thatbritguy.**
@@ -6,10 +8,10 @@ Originally designed as torrent/nzb client and provider icons for the HTPC Manage
 
 ###How to use
 Just follow these simple steps:
- 1. Download the latest release from [here](https://github.com/guygamer/bg-icons/releases/latest)
+ 1. Download the latest release from [here](https://github.com/thatbritguy/bg-icons/releases/latest)
  2. Extract the files and copy to your project
  3. Ensure the CSS is correctly referenced
- 4. Include the icons by using the "rg" class followed by the icon name: `<i class="bg bg-logo"></i>`
+ 4. Include the icons by using the "bg" class followed by the icon name: `<i class="bg bg-logo"></i>`
  5. Manipulate the icon as you would any other font, ex: `<i class="bg bg-logo" style="font-family:'bg-icons';font-size:28px;font-weight: normal;color:#00ff00"></i>`
 
 To see a full list of included icons along with the correct icon name to use please see the `bg-icons-demo.html` file included in the root of the bg-icons source.
@@ -17,17 +19,21 @@ To see a full list of included icons along with the correct icon name to use ple
 ###Special classes
 You can use some special classes I created to quickly customise any bg-icon.  Just include these modifiers to the class:
  * `bg-xs` - 16px size - ideal for buttons and icons, ex: `<i class="bg bg-logo bg-xs"></i>`
- * `bg-inverse` - inverted icon - ideal if using rg-icons on a dark background, ex: `<i class="bg bg-logo bg-inverse"></i>`
+ * `bg-inverse` - inverted icon - ideal if using bg-icons on a dark background, ex: `<i class="bg bg-logo bg-inverse"></i>`
  * `bg-[name]-c` - coloured icon - use a brand-coloured version of an icon by appending `-c` to the name, ex: `<i class="bg bg-logo-c"></i>`
  
-###Requests
+<!--- ###Requests
 If you're using bg-icons in your project and want an icon for any software/service that isn't included feel free to open an issue and make a request.  I'll try to get round to these if and when I get chance.  gg-icons is a project I work on in my free time and sometimes life gets busy so no guarantees.
 
 Please start the title of any request with [REQUEST] and include an image of the logo it is to be based on in the request itself (this is easy to do on github!).
 
-*NB - Please only request icons for known software and services.  No requests for personal designs and nothing of a lewd or adult nature.*
+*NB - Please only request icons for known software and services.  No requests for personal designs and nothing of a lewd or adult nature.* --->
 
 ###Version History
+ * v1.6.0 2022-08-92
+  - Project is EOL and no longer maintained
+  - Rename project and old references for archiving
+  
  * v1.5.0 2016-02-07
   - Added icon for torrentproject (by request)
   - Backend changes to remove CSS font embedding
